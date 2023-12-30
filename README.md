@@ -30,4 +30,3 @@ I've been learning code for the last 3 years, I work on web development and java
 
 <a href="http://www.github.com/ajaxdform"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaxdform&stroke=64748b&background=1c1917&ring=f97316&fire=f97316&currStreakNum=64748b&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/ajaxdform" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaxdform&langs_count=10&title_color=f97316&text_color=64748b&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
