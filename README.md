@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shubham Salaskar
+Shubham Salaskar
 ========================================================================================================================================
 
 Software Engineer
 -----------------
 
-I've been learning code for the last 3 years, I work on web development and java.
+I've been learning code for the last 3 years, and I work on Java | SpringBoot | Angular.
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [shubamsalaskar03@gmail.com](mailto:shubamsalaskar03@gmail.com)
-* 🧠  I'm learning React.js
 
 ### Skills
 
